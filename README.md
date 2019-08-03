@@ -6,4 +6,5 @@ A simple program developed in Python to enquire IRCTC about train and berth avai
 
 
 Example of usage:-
+
 traiqry.exe --fromstn=MFP --tostn=DLI --date=20190901 --claquta=SL,3A,GN
